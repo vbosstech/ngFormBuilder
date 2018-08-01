@@ -2,7 +2,7 @@ The [Form.io](https://form.io) Form Builder
 --------------------------------
 This library provides form building capabilities to an Angular.js application. This form builder's purpose is to 
 construct a JSON object reporesentation of a form, which could then be handed off to a Form Renderer such as the one
-found @ [https://github.com/formio/ngFormio](https://github.com/formio/ngFormio).  The following landing page should
+found @ [https://github.com/vbosstech/ngFormio](https://github.com/vbosstech/ngFormio).  The following landing page should
 provide a good example of how this form builder works.
 
 [See Working Example](http://codepen.io/travist/full/xVyMjo/)

@@ -2,7 +2,7 @@
 /*global window: false, console: false, jQuery: false */
 /*jshint browser: true */
 var fs = require('fs');
-var utils = require('formiojs/utils').default;
+var utils = require('@eform/formiojs/lib/utils').default;
 
 var app = angular.module('ngFormBuilder', [
   'formio',

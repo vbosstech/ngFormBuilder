@@ -1,5 +1,5 @@
 'use strict';
-var utils = require('formiojs/utils').default;
+var utils = require('@eform/formiojs/lib/utils').default;
 var _get = require('lodash/get');
 var _reject = require('lodash/reject');
 module.exports = [
