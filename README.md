@@ -53,6 +53,6 @@ To remove default components or groups from the form builder, set them as disabl
     }]);
 ```
 
-Form.io
+vBOSS.tech
 ==============
-This project is provided by [Form.io](https://form.io), which is a combined form and API platform for Developers.
+This project is provided by [vBOSS.tech](https://vboss.tech), which is a combined form and API platform for Developers.

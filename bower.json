@@ -1,10 +1,10 @@
 {
-  "name": "@eform/ng-formio-builder",
+  "name": "eform-ng-formio-builder",
   "main": [
     "dist/ngFormBuilder.js",
     "css/ngFormBuilder.css"
   ],
-  "version": "2.35.11",
+  "version": "2.35.12",
   "description": "The Angular.JS form builder.",
   "license": "MIT",
   "ignore": [
@@ -20,7 +20,7 @@
     "ng-dialog": "^1.4.0",
     "ng-tags-input": "^3.2.0",
     "angular-ckeditor": "^1.0.3",
-    "@eform/ng-formio": "https://github.com/vbosstech/ngFormio.git"
+    "eform-ng-formio": "^2.35.6"
   },
   "devDependencies": {
     "font-awesome": "^4.6.3"
